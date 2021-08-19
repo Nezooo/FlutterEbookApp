@@ -1,3 +1,13 @@
+
+# Hi Nezooo
+Hi,
+I noticed you forked JideGuru's EbookApp. I am looking for someone who is willing to invest time to improve to this project (and keep it opensource). I am willing to donate some money to see this project take off. (Reason being: I have a free&opensource project based on another project (FBReaderJ) which is no longer opensource. I do not have flutter/dart knowledge).     
+If you are willing to, here are some of the features which EbookApp (and its libraries) are missing, you can choose any of them and we can discuss how much I could donate to see that contributed :)     
+Here are some features I think are required: https://github.com/JideGuru/FlutterEbookApp/issues/62
+
+Thanks in advance.
+
+
 # 📖📖 Flutter eBook App [![Codemagic build status](https://api.codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/status_badge.svg)](https://codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/latest_build)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
